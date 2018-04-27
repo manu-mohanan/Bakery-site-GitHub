@@ -152,6 +152,7 @@ p.sub-text {
 }
 
 .blog-post {
+	text-align: justify;
 	width: 750px;
 	margin-left: auto;
 	margin-right: auto;
