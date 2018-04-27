@@ -63,7 +63,7 @@ footer {
 
 section.hero {
 	color: #fff;
-	background-image: url('{{ site.baseurl }}/images/bg.jpg');
+	background-image: url('/Bakery-site-GitHub/images/bg.jpg');
 	background-size: cover;
 }
 
