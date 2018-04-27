@@ -3,14 +3,14 @@ layout: default
 title: Blog
 ---
 <div class="container">
-	
+
 	<h2 class="spacing">Blog</h2>
 
 	{% include newsletter.html %}
 
 	<div class="blog-posts">
 		{% for post in site.posts %}
-			<div class="blog-post spacing">
+			<div class="blog-post spacing txtalign">
 				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 				<p class="summary">
 					{{ post.category }}

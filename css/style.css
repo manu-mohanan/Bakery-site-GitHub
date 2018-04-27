@@ -60,7 +60,9 @@ footer {
 	color: #ffffff;
 }
 
-
+.txtalign{
+	    text-align: justify;
+}
 section.hero {
 	color: #fff;
 	background-image: url('/Bakery-site-GitHub/images/haunted_background.jpg');
