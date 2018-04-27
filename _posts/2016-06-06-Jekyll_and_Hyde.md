@@ -1,6 +1,6 @@
 ---
-layout: blogLayout
-category: MyBlogContent
+layout: post
+category: Information
 ---
 
 Gabriel John Utterson and his cousin Richard Enfield reach the door of a large house on their weekly walk. Enfield tells Utterson that months ago he saw a sinister-looking man named Edward Hyde trample a young girl after accidentally bumping into her. Enfield forced Hyde to pay £100 to avoid a scandal. Hyde brought them to this door and provided a cheque signed by a reputable gentleman (later revealed to be Doctor Henry Jekyll, a friend and client of Utterson). Utterson is disturbed because Jekyll recently changed his will to make Hyde the sole beneficiary. Utterson fears that Hyde is blackmailing Jekyll. When Utterson tries to discuss Hyde with Jekyll, Jekyll turns pale and asks that Hyde be left alone.
