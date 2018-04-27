@@ -72,6 +72,10 @@ p.post-hero {
 	margin: 0 auto;
 }
 
+.subhead {
+    color: blanchedalmond;
+    font-family: cursive;
+}
 header a,
 section.hero a,
 footer a {
