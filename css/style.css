@@ -60,6 +60,7 @@ footer {
 	color: #ffffff;
 }
 
+
 section.hero {
 	color: #fff;
 	background-image: url('{{ site.baseurl }}/images/bg.jpg');
