@@ -47,7 +47,7 @@ div.small-container {
 
 
 div.container {
-	max-width: 940px;
+	max-width: 1069px;
 }
 
 div.small-container {
@@ -96,6 +96,7 @@ nav.main-nav ul {
 	list-style: none;
 	float: right;
 }
+nav.main-nav ul li:hover {background: #555;}
 
 nav.main-nav li,
 nav.main-nav a {
